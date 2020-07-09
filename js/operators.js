@@ -56,7 +56,7 @@ let power_ass = 5;
 
 power_ass **= 2;
 
-console.log( power );
+console.log( power_ass );
 
 
 let increase = 5;
